@@ -1,0 +1,1 @@
+note : <a> tag use krny sy page dubara refresh hoga ,, jb bi ap 1 component sy dosry component pr jao gy.... so Link tag use krty routing me,, ta ke page bar bar refresh na ho
